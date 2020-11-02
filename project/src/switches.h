@@ -9,6 +9,8 @@
 #define SWITCHES (SW1 | SW2 | SW3 | SW4)
 
 void switch_init();
-void switch_interrupt_handler;
+void switch_IH();
+
+extern char super_state;
 
 #endif
