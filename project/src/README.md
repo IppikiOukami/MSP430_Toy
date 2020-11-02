@@ -1,9 +1,13 @@
 #Description
 
   *On the Green Board
+
   -Press S1 to activate the LEDs and Buzzer
+
   -Press S2 to activate the Buzzer (similar to siren)
+
   -Press S3 to activate the LEDs (Dimmer) + increasing and decreasing buzzer
+
   -Press S4 to turn everything off, except the LCD
 
 #To load the program
